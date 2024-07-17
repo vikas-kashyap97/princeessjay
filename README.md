@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vikaskashyaprock@gmail.com**
 
-- 📄 Know about my experiences [Vikas Kashyap front-end 2Yrs.pdf](Vikas Kashyap front-end 2Yrs.pdf)
+- 📄 Know about my experiences [https://github.com/princeessjay/princeessjay/blob/main/Vikas%20Kashyap%20front-end%202Yrs.pdf](https://github.com/princeessjay/princeessjay/blob/main/Vikas%20Kashyap%20front-end%202Yrs.pdf)
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
