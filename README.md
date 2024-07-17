@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vikaskashyaprock@gmail.com**
 
-- 📄 Know about my experiences [public/resume](public/resume)
+- 📄 Know about my experiences [Vikas Kashyap front-end 2Yrs.pdf](Vikas Kashyap front-end 2Yrs.pdf)
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
