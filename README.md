@@ -20,7 +20,7 @@
 - 📫 How to reach me [Click here](mailto:vikaskashyaprock@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://github.com/princeessjay/princeessjay/blob/main/Vikas%20Kashyap%20front-end%202Yrs.pdf)
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/princeessjay" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/4029/PNG/512/twitter_x_new_logo_x_icon_256077.png" alt="princeessjay" height="30" width="40" /></a>
