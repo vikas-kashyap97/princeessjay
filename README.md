@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/princeessjay?tab=repositories](https://github.com/princeessjay?tab=repositories)
+- 👨‍💻 All of my projects are available at [All Projects](https://github.com/princeessjay?tab=repositories)
 
 - 💬 Ask me about **Javascript and React**
 
 - 📫 How to reach me [Click here](vikaskashyaprock@gmail.com)
 
-- 📄 Know about my experiences [https://github.com/princeessjay/princeessjay/blob/main/Vikas%20Kashyap%20front-end%202Yrs.pdf](https://github.com/princeessjay/princeessjay/blob/main/Vikas%20Kashyap%20front-end%202Yrs.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/princeessjay/princeessjay/blob/main/Vikas%20Kashyap%20front-end%202Yrs.pdf)
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
