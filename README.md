@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Javascript and React**
 
-- 📫 How to reach me **vikaskashyaprock@gmail.com**
+- 📫 How to reach me [Click here](vikaskashyaprock@gmail.com)
 
 - 📄 Know about my experiences [https://github.com/princeessjay/princeessjay/blob/main/Vikas%20Kashyap%20front-end%202Yrs.pdf](https://github.com/princeessjay/princeessjay/blob/main/Vikas%20Kashyap%20front-end%202Yrs.pdf)
 - 
