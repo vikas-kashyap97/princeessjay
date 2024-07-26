@@ -17,7 +17,7 @@
     </a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/princeessjay" target="blank"><img src="https://img.shields.io/twitter/follow/princeessjay?logo=twitter&style=for-the-badge" alt="princeessjay" /></a> </p>
+<p align="left"> <a href="https://twitter.com/princeessjay" target="blank"><img src="https://img.shields.io/twitter/follow/princeessjay?logo=twitter&style=for-the-badge" alt="princeessjay" /></a> 
 
 - 🔭 I’m currently working on [Javascript pro](https://github.com/princeessjay/JS-Pro.git)
 
@@ -31,7 +31,7 @@
 
 - 📫 How to reach me [Click here](mailto:vikaskashyaprock@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://github.com/princeessjay/princeessjay/blob/main/Vikas%20kashyap%20front-end%202%20Yrs.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/princeessjay/princeessjay/blob/main/Vikas%20kashyap%20front-end%202%20Yrs.pdf) </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
