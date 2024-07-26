@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/princeessjay" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/4029/PNG/96/twitter_x_new_logo_x_round_circle_blue_icon_256074.png" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/vikas-kashyap8542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vikas-kashyap8542" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/vikas-kashyap8542" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/805/PNG/96/linkedin_icon-icons.com_65929.png" alt="www.linkedin.com/in/vikas-kashyap8542" height="30" width="40" /></a>
 <a href="https://fb.com/vikas kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikas kashyap" height="30" width="40" /></a>
 <a href="https://instagram.com/princeessjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princeessjay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/princeessjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="princeessjay" height="30" width="40" /></a>
