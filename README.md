@@ -17,7 +17,7 @@
     </a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/princeessjay" target="blank"><img src="https://img.shields.io/twitter/follow/princeessjay?logo=twitter&style=for-the-badge" alt="princeessjay" /></a> 
+<p align="center"> <a href="https://twitter.com/princeessjay" target="blank"><img src="https://img.shields.io/twitter/follow/princeessjay?logo=twitter&style=for-the-badge" alt="princeessjay" /></a> 
 
 - 🔭 I’m currently working on [Javascript pro](https://github.com/princeessjay/JS-Pro.git)
 
