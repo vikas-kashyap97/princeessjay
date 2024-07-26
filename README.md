@@ -27,9 +27,11 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/vikas-kashyap8542" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/805/PNG/96/linkedin_icon-icons.com_65929.png" alt="www.linkedin.com/in/vikas-kashyap8542" height="30" width="40" /></a>
 <a href="https://fb.com/vikas kashyap" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2429/PNG/96/facebook_logo_icon_147291.png" alt="vikas kashyap" height="30" width="40" /></a>
 <a href="https://instagram.com/princeessjay" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1211/PNG/96/1491580635-yumminkysocialmedia26_83102.png" alt="princeessjay" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/princeessjay" target="blank"> <svg align="center" xmlns="http://www.w3.org/2000/svg" height="30" width="40" viewBox="0 0 24 24" fill="blue">
+<a href="https://www.leetcode.com/princeessjay" target="blank">
+  <svg align="center" xmlns="http://www.w3.org/2000/svg" height="30" width="40" viewBox="0 0 24 24" fill="blue">
     <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zM10.5 17.1L7 12.5 10.5 7.9 12 9.8 13.5 7.9 17 12.5 13.5 17.1 12 15.2 10.5 17.1z"/>
-  </svg></a>
+  </svg>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
