@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Kashyap</h1>
-## A passionate frontend developer from India.
-![Typing](https://readme-typing-svg.herokuapp.com?font=Courier&color=%23FF0000&size=40&width=500&height=70&lines=A+passionate+frontend+developer+from+India.)
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=princeessjay&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
