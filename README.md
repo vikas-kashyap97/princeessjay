@@ -1,52 +1,60 @@
-# Hi 👋, I'm Vikas Kashyap
-
-## A passionate frontend developer from India.
+<h1 align="center">Hi 👋, I'm Vikas Kashyap</h1>
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Courier&color=%23FF0000&size=40&width=500&height=70&lines=A+passionate+frontend+developer+from+India.)
 
-## Eat - Sleep - Code - Repeat
-![Repeat](https://readme-typing-svg.herokuapp.com?font=Courier&color=%23FF0000&size=30&center=true&vCenter=true&width=500&height=70&lines=Eat+-+Sleep+-+Code+-+Repeat)
-
-![Profile views](https://komarev.com/ghpvc/?username=princeessjay&label=Profile%20views&color=0e75b6&style=flat)
-
-[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=princeessjay)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/princeessjay?logo=twitter&style=for-the-badge)](https://twitter.com/princeessjay)
-
-### About Me
-- 🔭 I’m currently working on [React.js Pro](https://github.com/princeessjay/React.js-Pro.git)
-- 🌱 I’m currently learning **JavaScript and React**
-- 👯 I’m looking to collaborate on **Frontend projects**
-- 👨‍💻 All of my projects are available at [My Projects](https://github.com/princeessjay?tab=repositories)
-- 💬 Ask me about **JavaScript and React**
-- 📫 Reach me at [vikaskashyaprock@gmail.com](mailto:vikaskashyaprock@gmail.com)
-- 📄 Learn more about my experiences [here](https://github.com/princeessjay/princeessjay/blob/main/Vikas%20kashyap%20front-end%202%20Yrs.pdf)
-
-### Connect with me:
 <p align="center">
-    <a href="https://x.com/princeessjay" target="_blank">
-        <i class="fa-brands fa-x-twitter fa-bounce" style="color: #008efa; font-size: 30px;"></i>
-    </a>
-    <a href="https://linkedin.com/in/www.linkedin.com/in/vikas-kashyap8542" target="_blank">
-        <i class="fa-brands fa-linkedin fa-bounce" style="font-size: 30px; color: #0762c8;"></i>
-    </a>
-    <a href="https://fb.com/vikas%20kashyap" target="_blank">
-        <i class="fa-brands fa-facebook fa-bounce" style="color: #1877f2; font-size: 30px;"></i>
-    </a>
-    <a href="https://instagram.com/princeessjay" target="_blank">
-        <i class="fa-brands fa-square-instagram fa-bounce" style="color: #e1306c;  font-size: 30px;"></i>
-    </a>
-    <a href="https://www.leetcode.com/princeessjay" target="_blank">
-        <i class="fa-solid fa-code fa-bounce" style="color: #000000; font-size: 30px;"></i>
+    <img src="https://komarev.com/ghpvc/?username=princeessjay&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=princeessjay" alt="Profile Trophy" />
     </a>
 </p>
 
-### Languages and Tools:
+
+
+<p align="center"> <a href="https://twitter.com/princeessjay" target="blank"><img src="https://img.shields.io/twitter/follow/princeessjay?logo=twitter&style=for-the-badge" alt="princeessjay" /></a> 
+
+- 🔭 I’m currently working on [React.js pro](https://github.com/princeessjay/React.js-Pro.git)
+
+- 🌱 I’m currently learning **Javascript and React**
+
+- 👯 I’m looking to collaborate on **Frontend projects**
+
+- 👨‍💻 All of my projects are available at [All Projects](https://github.com/princeessjay?tab=repositories)
+
+- 💬 Ask me about **Javascript and React**
+
+- 📫 How to reach me [Click here](mailto:vikaskashyaprock@gmail.com)
+
+- 📄 Know about my experiences [Resume](https://github.com/princeessjay/princeessjay/blob/main/Vikas%20kashyap%20front-end%202%20Yrs.pdf) </p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://x.com/princeessjay" target="_blank">
+        <img src="https://cdn.icon-icons.com/icons2/4029/PNG/96/twitter_x_new_logo_x_round_circle_blue_icon_256074.png" height="30" width="40" alt="Twitter" />
+    </a>
+    <a href="https://linkedin.com/in/www.linkedin.com/in/vikas-kashyap8542" target="_blank">
+        <img src="https://cdn.icon-icons.com/icons2/805/PNG/96/linkedin_icon-icons.com_65929.png" height="30" width="40" alt="LinkedIn" />
+    </a>
+    <a href="https://fb.com/vikas%20kashyap" target="_blank">
+        <img src="https://cdn.icon-icons.com/icons2/2429/PNG/96/facebook_logo_icon_147291.png" height="30" width="40" alt="Facebook" />
+    </a>
+    <a href="https://instagram.com/princeessjay" target="_blank">
+        <img src="https://cdn.icon-icons.com/icons2/1211/PNG/96/1491580635-yumminkysocialmedia26_83102.png" height="30" width="40" alt="Instagram" />
+    </a>
+    <a href="https://www.leetcode.com/princeessjay" target="_blank">
+        <img src="https://cdn.icon-icons.com/icons2/2389/PNG/96/leetcode_logo_icon_145113.png" height="30" width="40" alt="LeetCode" />
+    </a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://logowik.com/content/uploads/images/bash-icon1720765790.logowik.com.webp" alt="bash" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a>
     <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-        <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_efb1b2ba6b11bd2a070628dc56b9fef5/canvasjs-charts.png" alt="canvasjs" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -77,6 +85,10 @@
     </a>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=princeessjay&show_icons=true&locale=en&layout=compact)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=princeessjay&)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=princeessjay&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeessjay&" alt="Streak Stats" />
+</p>
