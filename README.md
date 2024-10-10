@@ -27,7 +27,7 @@
 
 - 📫 How to reach me [Click here](mailto:vikaskashyaprock@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://github.com/vikas-kashyap97/princeessjay/blob/main/Vikas%20Kashyap%20Frontend%202Yrs.pdf) </p>
+- 📄 Know about my experiences [Resume](https://github.com/vikas-kashyap97/princeessjay/blob/main/Vikas%20Kashyap%20Frontend%201Yrs.pdf) </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
