@@ -1,92 +1,78 @@
-<h1 align="center">
-    Hi 👋, I'm Vikas Kashyap
-</h1>
+# 👋 Hi, I'm **Vikas Kashyap** 
 
-<h3 align="center">
-    A passionate frontend developer from India
-</h3>
+<div align="center">
+  <img src="https://github.com/mehulsingh1010/mehulsingh1010/blob/main/coding-freak.gif?raw=true" alt="MasterHead" width="100%" style="border-radius: 15px;" />
+</div>
+<div align="center" style="background-color: #F8E7CB; padding: 20px; border-radius: 10px;">
+  <img src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" alt="MasterHead" width="100%" />
+</div>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=princeessjay&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77B25&center=true&width=435&lines=Frontend+Developer;JavaScript+Enthusiast;React+Lover" alt="Typing SVG" />
+</div>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=princeessjay" alt="Profile Trophy" />
-    </a>
-</p>
+## 🚀 About Me
 
-<p align="center">
-    <a href="https://twitter.com/princeessjay" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/princeessjay?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
-    </a>
-    <a href="https://linkedin.com/in/www.linkedin.com/in/vikas-kashyap8542" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <a href="https://fb.com/vikas%20kashyap" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
-    </a>
-</p>
+I'm a passionate Frontend Developer from India, dedicated to building sleek, responsive, and high-performance web applications.
 
-### 👨‍💻 About Me:
-- 🔭 I’m currently working on [React.js Pro](https://github.com/princeessjay/React.js-Pro.git)
-- 🌱 I’m currently learning **JavaScript** and **React**
-- 👯 I’m looking to collaborate on **Frontend projects**
-- 💬 Ask me about **JavaScript and React**
-- 📫 How to reach me: [Click here to Email](mailto:vikaskashyaprock@gmail.com)
-- 📄 Know about my experiences: [My Resume](https://github.com/vikas-kashyap97/princeessjay/blob/main/Vikas%20Kashyap%20Frontend%201Yrs.pdf)
+### 💡 Quick Highlights
 
-### 🔧 Technologies & Tools I use:
-<p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Git" width="40" height="40"/>
-    </a>
-</p>
+- 🔭 Currently working on [**React.js Pro**](https://github.com/princeessjay/React.js-Pro.git)
+- 🌱 Learning **Advanced JavaScript & React**
+- 👯 Looking to collaborate on **Frontend projects**
+- 💬 Ask me about **JavaScript, React, and Frontend Development**
+- 📫 **vikaskashyaprock@gmail.com**
+- 🎲 Fun fact: I turn coffee into clean, maintainable code! ☕💻
 
-### 🚀 GitHub Stats:
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=princeessjay&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Vikas's GitHub Stats" />
-</p>
+## 🛠️ Tech Arsenal
 
-### 🏆 Top Languages:
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=princeessjay&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,git,github,figma" alt="Tech Skills" />
+</div>
 
-### 📈 GitHub Streak:
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeessjay&theme=radical" alt="GitHub Streak" />
-</p>
+## 🌐 Let's Connect!
 
-### 📞 Contact Me:
-- 📧 [Email me](mailto:vikaskashyaprock@gmail.com)
-- 🌐 [Website](https://vikaskashyap.com)
+<div align="center">
+  <a href="https://linkedin.com/in/vikas-kashyap8542" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/princeessjay" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://fb.com/vikas%20kashyap" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
+
+## 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeessjay&theme=radical" alt="GitHub Profile Summary" width="100%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=princeessjay&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeessjay&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+</div>
+
+## 🤖 Project Spotlight: React.js Pro
+
+🚀 **React.js Pro** is my latest project, focusing on mastering React best practices.
+
+### Key Features
+- 🔥 High-performance UI with reusable components
+- 🎨 Styled with Tailwind and SASS
+- 🚀 Optimized for speed and efficiency
+- 🔐 Secure authentication
+
+## 📬 Visitor Count
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/princeessjay/count.svg" alt="Visitor Count" />
+</div>
 
 ---
 
-### ⚡ Fun Fact:
-- I love exploring new technologies and contributing to open-source projects!
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
+</div>
 
----
-
-<p align="center">
-    <a href="https://github.com/princeessjay?tab=repositories" target="_blank" style="color: #0070f3; font-size: 16px;">Check out my Repositories!</a>
-</p>
+**Made with ❤️ by Vikas Kashyap**
