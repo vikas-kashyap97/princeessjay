@@ -71,8 +71,5 @@ I'm a passionate Frontend Developer from India, dedicated to building sleek, res
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
-</div>
 
 **Made with ❤️ by Vikas Kashyap**
